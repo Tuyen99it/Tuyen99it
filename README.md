@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C#, asp.net and blockchain
 - 💞️ I’m looking to collaborate on Youtube
-- 📫 You can contacto to me via emai: nguyentuyen99tnut@gmail.com
+- 📫 You can contact to me via emai: nguyentuyen99tnut@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
